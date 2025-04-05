@@ -96,11 +96,13 @@ An interactive map-based data visualization project using **Leaflet.js, D3.js, a
 
 ## **Map Preview**
 
+### Part 1: Earthquake Visualization
 ![Earthquake Visualization Part 1](Images/part1.png)  
-![Earthquake Visualization Part 2](Images/part2.png)
+The map above shows real-time earthquake data for the past week. Earthquakes are displayed as colored markers, where the size corresponds to the magnitude and the color indicates depth. Interactive controls allow users to explore the data and view details like location, magnitude, and depth.
 
-The interactive maps shown above display real-time data with user controls for exploration.  
-Part 2 adds boundaries of Earth's tectonic plates for advanced geospatial insight.
+### Part 2: Tectonic Plates and Earthquakes
+![Earthquake Visualization Part 2](Images/part2.png)  
+This map shows the same earthquake data as in Part 1 but with the additional layer of Earth's tectonic plates. The boundaries of tectonic plates are displayed in orange, providing advanced geospatial insight into how seismic activity relates to plate movements. Users can toggle between earthquake and tectonic plate layers for more detailed analysis.
 
 ---
 
